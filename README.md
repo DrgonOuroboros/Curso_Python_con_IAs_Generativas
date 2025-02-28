@@ -4,47 +4,47 @@ Integramos en la didáctica del curso el pensamiento matemático, algorítmico y
 
 ## Introducción
 
-### ¿Qué es la ciencia de la computación?
+#### ¿Qué es la ciencia de la computación?
 
-### ¿Qué es computación?
+#### ¿Qué es computación?
 
 ## Pensamiento Matemático
 
-### Problemas con la librería MATH
+#### Problemas con la librería MATH
 
-### Problemas con la librería NETWOKX
+#### Problemas con la librería NETWOKX
 
-### Problemas con la librería SYMPY
+#### Problemas con la librería SYMPY
 
-### Problemas con la librería MATPLOTLIB.PYPLOT
+#### Problemas con la librería MATPLOTLIB.PYPLOT
 
-### Técnicas y problemas resueltos con IAs generativas 01
+
 
 ## Pensamiento Algorítmico
 
-### Estructuras iterativas
+#### Estructuras iterativas
 
-### Estructuras recursivas
+#### Estructuras recursivas
 
-### Eficiencia y corrección
+#### Eficiencia y corrección
 
-### Técnicas y problemas resueltos con IAs generativas 02
+
 
 
 ## Pensamiento computacional
 
-### Definición del problema
+#### Definición del problema
 
-### Razonamiento lógico
+#### Razonamiento lógico
 
-### Descomposición: Diseño de software
+#### Descomposición: Diseño de software
 
-### Descomposición: Otros usos
+#### Descomposición: Otros usos
 
-### Abstracción: Diagramas de clase
+#### Abstracción: Diagramas de clase
 
-### Descomposición: Diagramas de uso
+#### Descomposición: Diagramas de uso
 
-### Técnicas y problemas resueltos con IAs generativas 03
+
 
 
